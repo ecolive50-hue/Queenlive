@@ -1,31 +1,9 @@
-# Flutter / Dart
+
+build/
 .dart_tool/
 .packages
-.pub-cache/
 .pub/
-build/
-
-# Android
 android/.gradle/
 android/local.properties
-android/key.properties
-android/**/GeneratedPluginRegistrant.java
-
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/Generated.xcconfig
-ios/Flutter/Flutter.framework
-ios/Flutter/Flutter.podspec
-
-# IDE
-.idea/
-.vscode/
-*.iml
-
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
+*.jks
+*.keystore
